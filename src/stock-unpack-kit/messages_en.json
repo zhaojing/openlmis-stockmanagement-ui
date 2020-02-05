@@ -1,8 +1,8 @@
 {
-  "stockUnpackKit.unpack": "Unpack",
-  "stockUnpackKit.proceed": "Unpack Kits",
-  "stockUnpackKit.program": "Program",
-  "stockUnpackKit.action": "Action",
-  "stockUnpackKit.title": "Kit Unpack for ${facility}",
-  "stockUnpackKit.noProgramAvailable": "There are no programs for this facility. Please contact the Admin."
+  "stockUnpackKit.unpack": "拆包",
+  "stockUnpackKit.proceed": "拆包",
+  "stockUnpackKit.program": "方案",
+  "stockUnpackKit.action": "操作",
+  "stockUnpackKit.title": "为{facility}拆包",
+  "stockUnpackKit.noProgramAvailable": "此站点未找到方案。请联系管理员"
 }

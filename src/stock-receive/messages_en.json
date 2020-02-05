@@ -1,8 +1,8 @@
 {
-  "stockReceive.receive": "Receive",
-  "stockReceive.proceed": "Make Receive",
-  "stockReceive.program": "Program",
-  "stockReceive.action": "Action",
-  "stockReceive.title": "Receive for ${facility}",
-  "stockReceive.noProgramAvailable": "There are no programs for this facility. Please contact the Admin."
+  "stockReceive.receive": "接收",
+  "stockReceive.proceed": "接收",
+  "stockReceive.program": "方案",
+  "stockReceive.action": "操作",
+  "stockReceive.title": "由${facility}接收",
+  "stockReceive.noProgramAvailable": "此站点未找到方案。请联系管理员"
 }

@@ -1,4 +1,4 @@
 {
-  "orderableGroupService.noLotDefined": "No lot defined",
-  "orderableGroupService.productHasNoLots": "Product has no lots"
+  "orderableGroupService.noLotDefined": "批次号未定义",
+  "orderableGroupService.productHasNoLots": "物品无批号"
 }

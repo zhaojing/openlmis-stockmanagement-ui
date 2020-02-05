@@ -1,11 +1,11 @@
 {
-    "stockReasonsModal.reasons": "Reasons",
-    "stockReasonsModal.addReasons": "Add Reasons",
-    "stockReasonsModal.reasonsFor": "Reasons for ${product}",
-    "stockReasonsModal.addReasonsToTheDifference": "Add reasons to the difference of ${difference}.",
-    "stockReasonsModal.adjustments": "Adjustments",
-    "stockReasonsModal.unaccounted": "Unaccounted",
-    "stockReasonsModal.total": "Total",
-    "stockReasonsModal.updateReasonsFor": "Update reasons for ${product} even though there are still items unaccounted for?",
-    "stockReasonsModal.update": "Update"
+    "stockReasonsModal.reasons": "原因",
+    "stockReasonsModal.addReasons": "添加原因",
+    "stockReasonsModal.reasonsFor": "为${product}记录调整原因",
+    "stockReasonsModal.addReasonsToTheDifference": "记录差额${difference}的原因",
+    "stockReasonsModal.adjustments": "调整",
+    "stockReasonsModal.unaccounted": "未确认",
+    "stockReasonsModal.total": "总共",
+    "stockReasonsModal.updateReasonsFor": "仍有部分物品 ${product} 未记录原因，是否确认忽略这部分数值直接更新原因？",
+    "stockReasonsModal.update": "更新"
 }

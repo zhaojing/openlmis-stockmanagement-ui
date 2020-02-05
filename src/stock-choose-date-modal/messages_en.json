@@ -1,8 +1,8 @@
 {
-  "stockChooseDateModal.chooseOccurredDate": "Choose Occurred date",
-  "stockChooseDateModal.date": "Date",
-  "stockChooseDateModal.signature": "Signature",
-  "stockChooseDateModal.submittedBy": "Physical Inventory submitted by ${username}",
-  "stockChooseDateModal.cancel": "Cancel",
-  "stockChooseDateModal.confirm": "Confirm"
+  "stockChooseDateModal.chooseOccurredDate": "选择发生日期",
+  "stockChooseDateModal.date": "日期",
+  "stockChooseDateModal.signature": "签名",
+  "stockChooseDateModal.submittedBy": "${username}提交的盘库",
+  "stockChooseDateModal.cancel": "取消",
+  "stockChooseDateModal.confirm": "确认"
 }

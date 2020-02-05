@@ -1,8 +1,8 @@
 {
-  "stockAdjustment.adjustments": "Adjustments",
-  "stockAdjustment.title": "Adjustments for ${facility}",
-  "stockAdjustment.noProgramAvailable": "There are no programs for this facility. Please contact the Admin.",
-  "stockAdjustment.program": "Program",
-  "stockAdjustment.action": "Action",
-  "stockAdjustment.proceed": "Make Adjustments"
+  "stockAdjustment.adjustments": "调整",
+  "stockAdjustment.title": "${facility}的调整",
+  "stockAdjustment.noProgramAvailable": "此站点未找到方案。请联系管理员",
+  "stockAdjustment.program": "方案",
+  "stockAdjustment.action": "操作",
+  "stockAdjustment.proceed": "进行调整"
 }

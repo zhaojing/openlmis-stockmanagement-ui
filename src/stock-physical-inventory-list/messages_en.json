@@ -1,13 +1,13 @@
 {
-  "stockPhysicalInventory.stockManagement": "Stock Management",
-  "stockPhysicalInventory.physicalInventory": "Physical inventory",
-  "stockPhysicalInventory.title": "Physical inventory for ${facility}",
-  "stockPhysicalInventory.noPhysicalInventoryFound": "No physical inventory found.",
-  "stockPhysicalInventory.program": "Program",
-  "stockPhysicalInventory.status": "Status",
-  "stockPhysicalInventory.actions": "Actions",
-  "stockPhysicalInventory.start": "Start",
-  "stockPhysicalInventory.continue": "Continue",
-  "stockPhysicalInventory.notStarted": "Not yet started",
-  "stockPhysicalInventory.draft": "Draft"
+  "stockPhysicalInventory.stockManagement": "库存管理",
+  "stockPhysicalInventory.physicalInventory": "盘库",
+  "stockPhysicalInventory.title": "对${facility}进行盘库",
+  "stockPhysicalInventory.noPhysicalInventoryFound": "找不到盘库记录",
+  "stockPhysicalInventory.program": "方案",
+  "stockPhysicalInventory.status": "状态",
+  "stockPhysicalInventory.actions": "操作",
+  "stockPhysicalInventory.start": "开始",
+  "stockPhysicalInventory.continue": "继续",
+  "stockPhysicalInventory.notStarted": "尚未开始",
+  "stockPhysicalInventory.draft": "草稿"
 }

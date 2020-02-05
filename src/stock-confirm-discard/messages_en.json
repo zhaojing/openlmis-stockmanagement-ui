@@ -1,4 +1,4 @@
 {
-  "stockConfirmDiscard.discardDraft": "Do you want to leave this site? Changes you made may not be saved.",
-  "stockConfirmDiscard.leave": "Leave"
+  "stockConfirmDiscard.discardDraft": "您的操作尚未保存，是否确认离开？",
+  "stockConfirmDiscard.leave": "离开"
 }

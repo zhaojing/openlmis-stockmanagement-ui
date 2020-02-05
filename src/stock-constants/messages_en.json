@@ -1,10 +1,10 @@
 {
-    "stockConstants.stage1": "Stage 1",
-    "stockConstants.stage2": "Stage 2",
-    "stockConstants.debit": "Debit",
-    "stockConstants.credit": "Credit",
-    "stockConstants.balanceAdjustment": "Balance Adjustment",
-    "stockConstants.transfer": "Transfer",
-    "stockConstants.adjustment": "Adjustment",
-    "stockConstants.physicalInventory": "Physical Inventory"
+    "stockConstants.stage1": "阶段1",
+    "stockConstants.stage2": "阶段2",
+    "stockConstants.debit": "正",
+    "stockConstants.credit": "负",
+    "stockConstants.balanceAdjustment": "余额调整",
+    "stockConstants.transfer": "转换",
+    "stockConstants.adjustment": "调整",
+    "stockConstants.physicalInventory": "盘库"
 }

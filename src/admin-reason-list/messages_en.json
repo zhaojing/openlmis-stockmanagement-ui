@@ -1,12 +1,12 @@
 {
-  "adminReasonList.reasons": "Reasons",
-  "adminReasonList.administration": "Administration",
-  "adminReasonList.addReason": "Add Reason",
-  "adminReasonList.noMatchesForReason": "There are no matches for reason.",
-  "adminReasonList.name": "Name",
-  "adminReasonList.category": "Category",
-  "adminReasonList.type": "Type",
-  "adminReasonList.allowFreeText": "Allow Free Text",
-  "adminReasonList.edit": "Edit",
-  "adminReasonList.actions": "Actions"
+  "adminReasonList.reasons": "原因",
+  "adminReasonList.administration": "管理",
+  "adminReasonList.addReason": "添加原因",
+  "adminReasonList.noMatchesForReason": "未找到匹配的原因",
+  "adminReasonList.name": "名称",
+  "adminReasonList.category": "类别",
+  "adminReasonList.type": "类型",
+  "adminReasonList.allowFreeText": "允许自由文本",
+  "adminReasonList.edit": "编辑",
+  "adminReasonList.actions": "操作"
 }

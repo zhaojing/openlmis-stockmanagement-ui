@@ -1,15 +1,15 @@
 {
-    "stockCardSummaryList.stockOnHand": "Stock on Hand",
-    "stockCardSummaryList.title": "Stock on Hand - ${facility} - ${program}",
-    "stockCardSummaryList.search": "Search",
-    "stockCardSummaryList.print": "Print",
-    "stockCardSummaryList.noProducts": "No products found.",
-    "stockCardSummaryList.product": "Product",
-    "stockCardSummaryList.productCode": "Product Code",
-    "stockCardSummaryList.lotCode": "Lot Code",
-    "stockCardSummaryList.expiryDate": "Expiry Date",
-    "stockCardSummaryList.noLotDefined": "No lot defined",
-    "stockCardSummaryList.actions": "Actions",
-    "stockCardSummaryList.lastUpdate": "Last Update",
-    "stockCardSummaryList.view": "View"
+    "stockCardSummaryList.stockOnHand": "账面库存",
+    "stockCardSummaryList.title": "账面库存-${facility}-${program}",
+    "stockCardSummaryList.search": "搜索",
+    "stockCardSummaryList.print": "打印",
+    "stockCardSummaryList.noProducts": "找不到产品",
+    "stockCardSummaryList.product": "物品",
+    "stockCardSummaryList.productCode": "物品代码",
+    "stockCardSummaryList.lotCode": "批次号",
+    "stockCardSummaryList.expiryDate": "过期日期",
+    "stockCardSummaryList.noLotDefined": "批次号未定义",
+    "stockCardSummaryList.actions": "操作",
+    "stockCardSummaryList.lastUpdate": "最后更新",
+    "stockCardSummaryList.view": "查看"
 }

@@ -1,8 +1,8 @@
 {
-  "stockIssue.issue": "Issue",
-  "stockIssue.proceed": "Make Issue",
-  "stockIssue.program": "Program",
-  "stockIssue.action": "Action",
-  "stockIssue.title": "Issue for ${facility}",
-  "stockIssue.noProgramAvailable": "There are no programs for this facility. Please contact the Admin."
+  "stockIssue.issue": "发出",
+  "stockIssue.proceed": "发出",
+  "stockIssue.program": "方案",
+  "stockIssue.action": "操作",
+  "stockIssue.title": "由${facility}发货",
+  "stockIssue.noProgramAvailable": "此站点未找到方案。请联系管理员"
 }
