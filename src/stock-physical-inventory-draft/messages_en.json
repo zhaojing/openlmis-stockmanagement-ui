@@ -32,5 +32,5 @@
   "stockPhysicalInventoryDraft.printModal.label": "是否打印盘库清单？",
   "stockPhysicalInventoryDraft.printModal.yes": "打印",
   "stockPhysicalInventoryDraft.printModal.no": "否",
-  "stockPhysicalInventoryDraft.unaccountedQuantity": "未记录原因的数量",
+  "stockPhysicalInventoryDraft.unaccountedQuantity": "未记录原因的数量"
 }

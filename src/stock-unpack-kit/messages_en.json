@@ -3,6 +3,6 @@
   "stockUnpackKit.proceed": "拆包",
   "stockUnpackKit.program": "方案",
   "stockUnpackKit.action": "操作",
-  "stockUnpackKit.title": "为{facility}拆包",
+  "stockUnpackKit.title": "为${facility}拆包",
   "stockUnpackKit.noProgramAvailable": "此站点未找到方案。请联系管理员"
 }
